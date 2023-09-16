@@ -377,7 +377,7 @@
 }
 .home-card {
   width: 60%;
-  height: 319px;
+  height: 500px;
   display: flex;
   padding: var(--dl-space-space-tripleunit);
   z-index: 1;
