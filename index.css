@@ -566,6 +566,7 @@
 }
 .home-text08 {
   align-self: center;
+  text-align: justify;
 }
 @media(max-width: 991px) {
   .home-hero {
